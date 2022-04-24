@@ -4,3 +4,7 @@ Matric : 206937        |
 
 3-  You are working in a starting company with limited budget and your boss required you suggest some tactics to reduce the maintainability cost of the software.
     Propose three tactics for this objective.
+
+Answer:
+    As to reduce maintainance cost. We can reduce it by increasing the modifiablity as higher modifiability means can adapt to changes more easier thus we could perhaps save
+    some maintainance cost. And Tactic for Modifiabiltiy is in this repository as well.
