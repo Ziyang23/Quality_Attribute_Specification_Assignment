@@ -9,3 +9,20 @@ Quality Attribute Specification Assignment
       b.The performance of booking tickets.
     Write scenarios for each requirement to get you client signature.
     
+Answer: 
+      a. Security
+            Source           : Customers
+            Stimulus         : Try to purchase ticket using Credit Cards
+            Environment      : Under normal operations
+            Artifact         : System
+            Response         : Credit Cards being authenticated and ticket being purchased 
+            Response Measure : Credit cards being authenticated or rejected within 3 seconds
+            
+            
+      b. Performance
+            Source           : Customers
+            Stimulus         : Initiate Transection 
+            Environment      : Under normal operations
+            Artifact         : System
+            Response         : Transection are proccessed
+            Response Measure : With average latency of 5 seconds
